@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+.venv/
+__pycache__/
+.idea/
+>>>>>>> 0dfd0c1 (Rock Paper Scissor)
